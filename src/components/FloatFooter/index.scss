@@ -1,0 +1,16 @@
+.float-footer {
+  position: sticky;
+  float: right;
+  right: 3rem;
+  bottom: 3rem;
+
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+
+  a {
+    svg {
+      font-size: 24px;
+    }
+  }
+}

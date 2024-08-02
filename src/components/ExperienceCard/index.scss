@@ -1,0 +1,95 @@
+@import "../../colors.scss";
+
+$hover-ani: 200ms;
+
+.exp-card {
+  display: flex;
+  gap: 10px;
+
+  padding: 20px;
+
+  box-sizing: content-box;
+  border-radius: 8px;
+  border: solid 1px transparent;
+
+  color: $custom-black;
+
+  transition: all $hover-ani ease-in-out;
+
+  &:hover {
+    border: solid 1px $blue-200;
+    background-color: $blue-100;
+
+    .exp-main {
+      h1 {
+        color: $blue-700;
+
+        svg {
+          margin-top: -4px;
+          margin-left: 12px;
+        }
+      }
+    }
+  }
+
+  .exp-date {
+    width: 160px;
+    font-size: 11px;
+    font-style: italic;
+  }
+  .exp-main {
+    width: 100%;
+    font-size: 14px;
+
+    h1 {
+      position: relative;
+
+      font-size: 18px;
+      transition: all $hover-ani ease-in;
+
+      svg {
+        position: absolute;
+        top: 5px;
+
+        margin-left: 8px;
+        font-size: 14px;
+
+        transition: margin 200ms ease-in;
+        transform: rotateZ(35deg);
+      }
+    }
+
+    h2 {
+      color: grayscale($color: $blue-900);
+      font-style: italic;
+      font-size: 13px;
+    }
+
+    .exp-info {
+      ul {
+        list-style: disc;
+        padding-left: 18px;
+      }
+    }
+
+    .exp-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+
+      font-size: 13px;
+      font-weight: 700;
+      margin-top: 10px;
+
+      .exp-tag {
+        text-align: center;
+        min-width: fit-content;
+
+        padding: 5px 10px;
+        background-color: $blue-300;
+        color: $blue-950;
+        border-radius: 28px;
+      }
+    }
+  }
+}

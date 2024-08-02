@@ -1,0 +1,12 @@
+@import "../../colors.scss";
+@import "../../fonts.scss";
+
+.title-section {
+  color: $blue-800;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 32px;
+  text-align: center;
+  text-underline-offset: 12px;
+  margin-bottom: 2rem;
+}

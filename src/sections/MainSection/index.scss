@@ -1,0 +1,75 @@
+@import "../../colors.scss";
+@import "../../vars.scss";
+
+main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+
+  .left-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 1rem;
+
+    h1 {
+      font-size: 32px;
+      color: $blue-950;
+    }
+
+    h2 {
+      font-size: 14px;
+      color: grayscale($color: $blue-900);
+    }
+
+    p {
+      font-size: 14px;
+      color: $custom-black;
+      text-align: justify;
+    }
+  }
+
+  .right-column {
+    display: inline-block;
+    img {
+      max-width: 280px;
+    }
+
+    a {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+
+      height: 40px;
+      padding: 16px 24px 16px 16px;
+      margin-top: 1rem;
+
+      text-decoration: none;
+
+      font-weight: bold;
+      font-size: 12px;
+
+      color: $custom-white;
+      background-color: $blue-700;
+      border: $blue-500 solid 1px;
+      border-radius: 100px;
+
+      transition: color $bars-ani-duration ease-in,
+        background-color $bars-ani-duration ease-in;
+
+      &:hover {
+        background-color: transparent;
+        color: $blue-700;
+      }
+    }
+  }
+}
+
+@media (max-width: 730px) {
+  main {
+    flex-direction: column;
+  }
+}
