@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.09363e2a.css",
-    "main.js": "/Portfolio/static/js/main.818611a0.js",
+    "main.js": "/Portfolio/static/js/main.af2c4a2a.js",
     "static/media/snowman-game-removebg-preview.png": "/Portfolio/static/media/snowman-game-removebg-preview.88fc665eaaa614676794.png",
     "static/media/NutriTrack-removebg-preview.png": "/Portfolio/static/media/NutriTrack-removebg-preview.d897cfe931cfb31e0a31.png",
     "static/media/SCtV.png": "/Portfolio/static/media/SCtV.e3adfe38f5acca7269b5.png",
@@ -10,6 +10,7 @@
     "static/media/survey-point.png": "/Portfolio/static/media/survey-point.2aae2be55b47a5cc0358.png",
     "static/media/book-search-engine.png": "/Portfolio/static/media/book-search-engine.b28c11106413575b5713.png",
     "static/media/profile-pic.png": "/Portfolio/static/media/profile-pic.35a7006644696937cdc3.png",
+    "static/media/kotlin.svg": "/Portfolio/static/media/kotlin.5682acac6f4dbf4fcc1125f1acd2bd37.svg",
     "static/media/python.svg": "/Portfolio/static/media/python.af4b6d45f652824e97cdcd305b065579.svg",
     "static/media/mysql.svg": "/Portfolio/static/media/mysql.7618eff6c7997ea6f658486afebb98ce.svg",
     "static/media/rest-api.svg": "/Portfolio/static/media/rest-api.95d1563943633a8a01f2799241ea8fc2.svg",
@@ -30,10 +31,10 @@
     "index.html": "/Portfolio/index.html",
     "static/media/solidity.svg": "/Portfolio/static/media/solidity.1f3a3204f8988102f865f1b196afb694.svg",
     "main.09363e2a.css.map": "/Portfolio/static/css/main.09363e2a.css.map",
-    "main.818611a0.js.map": "/Portfolio/static/js/main.818611a0.js.map"
+    "main.af2c4a2a.js.map": "/Portfolio/static/js/main.af2c4a2a.js.map"
   },
   "entrypoints": [
     "static/css/main.09363e2a.css",
-    "static/js/main.818611a0.js"
+    "static/js/main.af2c4a2a.js"
   ]
 }
