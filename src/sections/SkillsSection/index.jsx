@@ -4,15 +4,13 @@ import "./index.scss";
 import CPlusPlus from "../../assets/icons/c-plus-plus.svg";
 import JS from "../../assets/icons/javascript.svg";
 import TS from "../../assets/icons/typescript.svg";
-// import Dart from "../../assets/icons/dart.svg";
-// import CSharp from "../../assets/icons/c-sharp.svg";
 import PHP from "../../assets/icons/php.svg";
 import CSS from "../../assets/icons/css.svg";
 import HTML5 from "../../assets/icons/html5.svg";
 import Java from "../../assets/icons/java.svg";
+import Kotlin from "../../assets/icons/kotlin.svg";
 import Python from "../../assets/icons/python.svg";
 import Solidity from "../../assets/icons/solidity.svg";
-// import Flutter from "../../assets/icons/flutter.svg";
 import Laravel from "../../assets/icons/laravel.svg";
 import ReactJS from "../../assets/icons/react-js.svg";
 import NodeJS from "../../assets/icons/node-js.svg";
@@ -82,6 +80,11 @@ const dataSkills = [
         src: Java,
         alt: "Java",
         skill: "Java",
+      },
+      {
+        src: Kotlin,
+        alt: "Kotlin",
+        skill: "Kotlin",
       },
     ],
   },
