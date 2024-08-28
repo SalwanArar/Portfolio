@@ -1,6 +1,5 @@
 import "./index.scss";
-import Pic from "../../assets/images/profile-pic-c.png";
-// import Resume from "../../assets/files/Resume.pdf";
+import Pic from "../../assets/images/profile-pic.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDownload } from "@fortawesome/free-solid-svg-icons";
 
@@ -15,12 +14,12 @@ function MainSection() {
         </h1>
         <h2>Software Engineer | Web Developer</h2>
         <p>
-          Dedicated Software Engineer and Web Developer with extensive
-          experience in web and mobile application development. Proficient in a
-          variety of programming languages and frameworks including{" "}
-          <b>JavaScript</b>, <b>React.js</b>, <b>PHP</b>, <b>Python</b>, and
-          more. Passionate about learning, problem-solving, and delivering
-          high-quality, innovative solutions.
+          Software developer with expertise in <b>JavaScript</b>, <b>Node.js</b>
+          , <b>Java</b>, and <b>Python</b>, as well as web development using{" "}
+          <b>Node.js</b>, <b>React.js</b>, <b>NLTK</b>.<br />
+          Seeking a challenging position to leverage my competencies in software
+          development and distributed systems to contribute to innovative
+          projects.
         </p>
       </div>
       <div className="right-column">

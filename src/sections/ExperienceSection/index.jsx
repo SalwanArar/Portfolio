@@ -4,70 +4,44 @@ import "./index.scss";
 
 const experienceInfo = [
   {
-    title: "Web Developer",
-    link: "https://www.instagram.com/cinotrends/",
-    company: "Cino Trends Production, Abu Dhabi, UAE",
-    address: "Abu Dhabi, UAE",
-    date: "Jan — Jul 2023",
-    children: [
-      <>
-        Developed responsive <b>Front-End</b> websites using <b>React.js</b>.
-      </>,
-      <>
-        Implemented and managed social media marketing campaigns to enhance
-        client engagement.
-      </>,
-      // <>
-      //   Developed responsive websites using <b>React.js</b>, <b>JavaScript</b>,{" "}
-      //   <b>HTML5</b>, and <b>CSS</b>.
-      // </>,
-      // <>
-      //   Implemented and managed social media marketing campaigns to enhance
-      //   client engagement.
-      // </>,
-      // <>
-      //   Built and maintained strong client relationships, ensuring high levels
-      //   of satisfaction and service delivery.
-      // </>,
-    ],
-    tags: ["ReactJS", "HTML", "CSS", "JavaScript"],
-  },
-  {
-    title: "Software Developer",
+    title: "Full Stack Developer",
     link: "https://www.netcore.ae/",
     company: "NetCore IT Solutions",
     address: "Abu Dhabi, UAE",
-    date: "Apr 2022 — Apr 2023",
+    date: "Apr 2022 — August 2023",
     children: [
       <>
-        Developed application from the ground up using <b>JS</b>.
+        Led the full-cycle development of applications from concept to
+        deployment using <b>JavaScript</b>.
       </>,
       <>
-        Designed and implemented the <b>Back-End</b> using <b>MySQL</b>,{" "}
-        <b>REST API</b>, <b>Laravel</b>, and <b>Ubuntu Server 18.04</b>.
+        Architected and implemented robust <b>Back-End</b> solutions utilizing
+        <b>MySQL</b>, <b>REST APIs</b>, <b>Node.js</b>, <b>Agile methodology</b>
+        , and <b>Ubuntu Server 18.04</b>.
       </>,
-      <>Managed domain registrations and supplier relationships.</>,
-      // <>
-      //   Developed mobile applications from the ground up using the{" "}
-      //   <b>Flutter</b> framework and <b>Dart</b>.
-      // </>,
-      // <>
-      //   Designed and implemented backend systems using <b>MySQL</b>,{" "}
-      //   <b>REST API</b>, and <b>Ubuntu server 18.04</b>.
-      // </>,
-      // <>Managed domain registrations and supplier relationships.</>,
-      // <>
-      //   Provided training on <b>Flutter</b> development to students at{" "}
-      //   <b>Al Ain University</b>.
-      // </>,
+      <>
+        Developed responsive and dynamic <b>Front-End</b> interfaces with{" "}
+        <b>React.js</b> and <b>Java</b>.
+      </>,
+      <>
+        Spearheaded social media marketing campaigns to boost client engagement
+        and brand visibility.
+      </>,
+      <>
+        Managed domain registrations and maintained key supplier relationships
+        to support business operations.
+      </>,
     ],
     tags: [
-      "JS",
-      "Laravel",
-      "REST API",
+      "JavaScript",
+      "Java",
+      "Android",
+      "React.js",
       "MySQL",
-      "Ubuntu",
-      "Database Design",
+      "Node.js",
+      "REST API",
+      "Ubuntu Server 18.04",
+      "Agile Methodology",
       "PL/SQL",
     ],
   },
@@ -79,13 +53,8 @@ const experienceInfo = [
     date: "Aug 2021 — Feb 2022",
     children: [
       <>
-        Teaching programming languages, particularly <b>JS</b>, and{" "}
-        <b>Python</b>.
+        Teaching programming languages, particularly <b>JS</b>, and <b>Java</b>.
       </>,
-      // <>
-      //   Teaching programming languages, particularly <b>Flutter</b>, <b>C++</b>,
-      //   and <b>Python</b>.
-      // </>,
       <>
         Delivered lectures and coursework in various university-level subjects.
       </>,
@@ -94,33 +63,36 @@ const experienceInfo = [
         academic success.
       </>,
     ],
-    tags: ["JavaScript", "Web Development", "Python"],
+    tags: ["JavaScript", "Java", "OOP"],
   },
   {
-    title: "Head of IT Committee",
+    title: "Software Developer (Contract)",
     link: "https://www.facebook.com/SYRedCrescent.RuralDamascus/",
     company: "Syrian Arab Red Crescent",
     address: "Damascus, Syria",
-    date: "May — Aug 2020",
+    date: "May — October 2020",
     children: [
       <>
-        Designed a comprehensive database to streamline volunteer adherence and
-        process management.
+        Designed and implemented a comprehensive database to optimize volunteer
+        adherence and process management.
       </>,
       <>
-        Developed a mobile application for volunteers using Android to manage
-        events and server connections.
+        Developed an <b>Android Java</b> mobile application for volunteers to
+        manage events and server connections efficiently.
       </>,
       <>
-        Created a website using <b>PHP</b>, <b>HTML5</b>, and <b>CSS</b> for
-        committee chairs to manage volunteer information and event reports.
+        Built a website for committee chairs using <b>React.js</b>,{" "}
+        <b>Node.js</b>,<b>HTML5</b>, and <b>CSS</b> enabling streamlined
+        management of volunteer information and event reports.
       </>,
     ],
     tags: [
-      "Bootstrap",
-      "HTML",
-      "CSS",
+      "Java",
       "JavaScript",
+      "Android",
+      "React.js",
+      "Node.js",
+      "CSS",
       "PHP",
       "Ubuntu Sever",
       "PL/SQL",

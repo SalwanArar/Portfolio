@@ -4,12 +4,7 @@ import { faArrowUp } from "@fortawesome/free-solid-svg-icons";
 
 function EducationCard(props) {
   return (
-    <div
-      // href={props.link}
-      className="edu-card"
-      // target="_blank"
-      // rel="noreferrer"
-    >
+    <div className="edu-card">
       <div className="edu-date">{props.date}</div>
       <div className="edu-main">
         <a href={props.instituteLink} target="_blank" rel="noreferrer">
