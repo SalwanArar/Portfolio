@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.09363e2a.css",
+    "main.js": "/Portfolio/static/js/main.818611a0.js",
+    "static/media/snowman-game-removebg-preview.png": "/Portfolio/static/media/snowman-game-removebg-preview.88fc665eaaa614676794.png",
+    "static/media/NutriTrack-removebg-preview.png": "/Portfolio/static/media/NutriTrack-removebg-preview.d897cfe931cfb31e0a31.png",
+    "static/media/SCtV.png": "/Portfolio/static/media/SCtV.e3adfe38f5acca7269b5.png",
+    "static/media/life-chain.png": "/Portfolio/static/media/life-chain.2301318ca267f60ed112.png",
+    "static/media/persona-pulse-removebg-preview.png": "/Portfolio/static/media/persona-pulse-removebg-preview.979f345605a86009e2c5.png",
+    "static/media/survey-point.png": "/Portfolio/static/media/survey-point.2aae2be55b47a5cc0358.png",
+    "static/media/book-search-engine.png": "/Portfolio/static/media/book-search-engine.b28c11106413575b5713.png",
+    "static/media/profile-pic.png": "/Portfolio/static/media/profile-pic.35a7006644696937cdc3.png",
+    "static/media/python.svg": "/Portfolio/static/media/python.af4b6d45f652824e97cdcd305b065579.svg",
+    "static/media/mysql.svg": "/Portfolio/static/media/mysql.7618eff6c7997ea6f658486afebb98ce.svg",
+    "static/media/rest-api.svg": "/Portfolio/static/media/rest-api.95d1563943633a8a01f2799241ea8fc2.svg",
+    "static/media/aws.svg": "/Portfolio/static/media/aws.667be7ef0343e66df45982cd936fac94.svg",
+    "static/media/android.svg": "/Portfolio/static/media/android.ce0d88750e5e452dedc91a40b9b0f84d.svg",
+    "static/media/react-js.svg": "/Portfolio/static/media/react-js.4ee8d0003d0f7f9ccea03ac4aa13fb99.svg",
+    "static/media/php.svg": "/Portfolio/static/media/php.a213166638aeb50f2376dc8478a70c34.svg",
+    "static/media/blockchain.svg": "/Portfolio/static/media/blockchain.930f2fa8e46c2b6c1a2ab5d0a7684385.svg",
+    "static/media/css.svg": "/Portfolio/static/media/css.dbd31fe14ec796185689723739441965.svg",
+    "static/media/java.svg": "/Portfolio/static/media/java.8cb1fd4a951e0324c83e632215f39b64.svg",
+    "static/media/laravel.svg": "/Portfolio/static/media/laravel.bf15f8c9ae0b45a17184c1f18730c2be.svg",
+    "static/media/ubuntu.svg": "/Portfolio/static/media/ubuntu.140dee3bc95f6a94bf34e20829105c1f.svg",
+    "static/media/node-js.svg": "/Portfolio/static/media/node-js.10354602b1c0786e53037290e5ad547a.svg",
+    "static/media/c-plus-plus.svg": "/Portfolio/static/media/c-plus-plus.30cd71dc0624ba73acf8d9f9204f66bb.svg",
+    "static/media/typescript.svg": "/Portfolio/static/media/typescript.488c71009bd8fd3858119d44e4230925.svg",
+    "static/media/javascript.svg": "/Portfolio/static/media/javascript.43e744a279a2adb2d549e76402f43593.svg",
+    "static/media/html5.svg": "/Portfolio/static/media/html5.115310285b7fd7194c7afea2c04ec0f7.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/solidity.svg": "/Portfolio/static/media/solidity.1f3a3204f8988102f865f1b196afb694.svg",
+    "main.09363e2a.css.map": "/Portfolio/static/css/main.09363e2a.css.map",
+    "main.818611a0.js.map": "/Portfolio/static/js/main.818611a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09363e2a.css",
+    "static/js/main.818611a0.js"
+  ]
+}
