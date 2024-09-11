@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.09363e2a.css",
-    "main.js": "/Portfolio/static/js/main.af2c4a2a.js",
+    "main.js": "/Portfolio/static/js/main.9a9f7057.js",
     "static/media/snowman-game-removebg-preview.png": "/Portfolio/static/media/snowman-game-removebg-preview.88fc665eaaa614676794.png",
     "static/media/NutriTrack-removebg-preview.png": "/Portfolio/static/media/NutriTrack-removebg-preview.d897cfe931cfb31e0a31.png",
     "static/media/SCtV.png": "/Portfolio/static/media/SCtV.e3adfe38f5acca7269b5.png",
@@ -31,10 +31,10 @@
     "index.html": "/Portfolio/index.html",
     "static/media/solidity.svg": "/Portfolio/static/media/solidity.1f3a3204f8988102f865f1b196afb694.svg",
     "main.09363e2a.css.map": "/Portfolio/static/css/main.09363e2a.css.map",
-    "main.af2c4a2a.js.map": "/Portfolio/static/js/main.af2c4a2a.js.map"
+    "main.9a9f7057.js.map": "/Portfolio/static/js/main.9a9f7057.js.map"
   },
   "entrypoints": [
     "static/css/main.09363e2a.css",
-    "static/js/main.af2c4a2a.js"
+    "static/js/main.9a9f7057.js"
   ]
 }
