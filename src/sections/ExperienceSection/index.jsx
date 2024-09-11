@@ -8,7 +8,7 @@ const experienceInfo = [
     link: "https://www.netcore.ae/",
     company: "NetCore IT Solutions",
     address: "Abu Dhabi, UAE",
-    date: "Apr 2022 — August 2023",
+    date: "Apr 2022 — Aug 2023",
     children: [
       <>
         Led the full-cycle development of applications from concept to
@@ -70,7 +70,7 @@ const experienceInfo = [
     link: "https://www.facebook.com/SYRedCrescent.RuralDamascus/",
     company: "Syrian Arab Red Crescent",
     address: "Damascus, Syria",
-    date: "May — October 2020",
+    date: "May 2020 — Oct 2020",
     children: [
       <>
         Designed and implemented a comprehensive database to optimize volunteer
@@ -113,7 +113,7 @@ function ExperienceSection() {
             tags={exp.tags}
             link={exp.link}
             address={exp.address}
-            company={"Cino Trends Production"}
+            company={exp.company}
             info={
               <ul>
                 {exp.children.map((child, index) => (
