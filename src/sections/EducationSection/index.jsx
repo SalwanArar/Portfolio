@@ -15,6 +15,7 @@ const educationData = [
   },
   {
     title: "Bachelor's in Information Technology Engineering",
+    subtitle: "In Artificial Intelligace",
     institute: "Arab International University",
     instituteLink: "https://www.aiu.edu.sy/en/",
     address: "Syria",
@@ -69,6 +70,7 @@ function EducationSection() {
           <EducationCard
             key={index}
             title={edu.title}
+            subtitle={edu.subtitle}
             company={edu.institute}
             date={edu.date}
             address={edu.address}

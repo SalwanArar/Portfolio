@@ -11,6 +11,7 @@ function EducationCard(props) {
           <h1>
             {props.title} <FontAwesomeIcon icon={faArrowUp} />
           </h1>
+          <h2>{props.subtitle}</h2>
         </a>
         <h2>{props.company}</h2>
         <h2>{props.address}</h2>
